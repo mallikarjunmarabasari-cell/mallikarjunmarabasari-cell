@@ -29,17 +29,11 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> </a> 
 </p><br><br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mallikarjunmarabasari-cell&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mallikarjunmarabasari-cell&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mallikarjunmarabasari-cell&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![GitHub Contribution Graph](https://github-readme-stroke-profile.vercel.app/api/islands/contribution-graph?username=your-username&theme=light)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mallikarjunmarabasari-cell&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.am/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=your-username&layout=compact&theme=default" alt="Top Languages" height="150" />
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&icon=5&color=9)](https://visitcount.itsvg.in)
 
