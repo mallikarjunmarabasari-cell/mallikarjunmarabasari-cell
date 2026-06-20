@@ -36,17 +36,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunmarabasari-cell&layout=compact&theme=default" alt="Top Languages" height="150" />
 </p>
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
-
-</p>
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -58,10 +47,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <img src="https://github.com/mallikarjunmarabasari-cell/mallikarjunmarabasari-cell/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 <br>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mallikarjunmarabasari-cell&theme=matrix&row=1&column=7&margin-w=15"/>
+</p>
+<br>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mallikarjunmarabasari-cell&theme=chartreuse-dark"/>
 </p>
-
+<br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&label=Profile+Views&color=39FF14&style=for-the-badge"/>
 </p>
