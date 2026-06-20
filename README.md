@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mallikarjun+Marabasari;Full+Stack+Developer;AI+%7C+DevOps+%7C+Cloud+Enthusiast;Building+Projects+That+Matter" />
+ <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&amp;center=true&amp;color=2CFF00&amp;size=40&amp;width=750&amp;height=80&amp;lines=Mallikarjun%20S%20Marabasari">
 </p>
-
-<h3 align="center">
-🚀 Computer Science Student | Full Stack Developer | AI Enthusiast
-</h3>
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack applications using the MERN stack.<br><br>👯 I’m looking to collaborate on Open Source MERN or Python projects.<br><br>🤝 I’m looking for help with advanced System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>💬 Ask me about MongoDB, Express, React, Node.js, or DSA.<br>I'm a student at BGMIT who loves turning caffeine into clean code!
 
