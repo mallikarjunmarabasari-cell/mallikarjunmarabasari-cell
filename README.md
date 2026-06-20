@@ -35,9 +35,7 @@
 ![](https://streak-stats.demolab.com/?user=mallikarjunmarabasari-cell&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mallikarjunmarabasari-cell&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stroke-profile.vercel.app/api/islands/contribution-graph?username=your-username&theme=light" alt="GitHub Contribution Graph" />
-</p>
+![GitHub Contribution Graph](https://github-readme-stroke-profile.vercel.app/api/islands/contribution-graph?username=your-username&theme=light)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mallikarjunmarabasari-cell&theme=merko&no-frame=false&no-bg=false&margin-w=4)
