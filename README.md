@@ -36,6 +36,17 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunmarabasari-cell&layout=compact&theme=default" alt="Top Languages" height="150" />
 </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
+
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
