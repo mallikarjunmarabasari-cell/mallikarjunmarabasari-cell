@@ -36,7 +36,24 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunmarabasari-cell&layout=compact&theme=default" alt="Top Languages" height="150" />
 </p>
+## 📈 Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mallikarjunmarabasari-cell&theme=react-dark&hide_border=true"/>
+</p> <br>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/mallikarjunmarabasari-cell/mallikarjunmarabasari-cell/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mallikarjunmarabasari-cell&theme=chartreuse-dark"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&label=Profile+Views&color=39FF14&style=for-the-badge"/>
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&icon=5&color=9)](https://visitcount.itsvg.in)
 
