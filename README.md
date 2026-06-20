@@ -1,6 +1,7 @@
- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&amp;center=true&amp;color=2CFF00&amp;size=40&amp;width=750&amp;height=80&amp;lines=Mallikarjun%20S%20Marabasari">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&amp;center=true&amp;color=0D7A1D&amp;size=40&amp;width=750&amp;height=80&amp;lines=Mallikarjun%20S%20Marabasari">
 </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack applications using the MERN stack.<br><br>👯 I’m looking to collaborate on Open Source MERN or Python projects.<br><br>🤝 I’m looking for help with advanced System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>💬 Ask me about MongoDB, Express, React, Node.js, or DSA.<br>I'm a student at BGMIT who loves turning caffeine into clean code!
 
@@ -29,11 +30,13 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> </a> 
 </p><br><br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.am/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjunmarabasari-cell&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
   
-  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=your-username&layout=compact&theme=default" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunmarabasari-cell&layout=compact&theme=default" alt="Top Languages" height="150" />
 </p>
+
 ---
 [![](https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&icon=5&color=9)](https://visitcount.itsvg.in)
 
