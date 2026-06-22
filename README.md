@@ -5,10 +5,18 @@
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack applications using the PERN stack.<br><br>I’m looking to collaborate on Open Source PERN or Python projects.<br><br>🤝 I’m looking for help with advanced System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>
 
+## 🚀 Open Source Aspirations
+I am actively seeking my first open-source contributions! 
+
+**What I bring to the table:**
+- **Full-Stack Web Dev:** MongoDB, Express, React, Node.js (MERN) & PostgreSQL (PERN)
+- **Languages:** C, Python, JS
+
+If you have a project with "good first issues" or need help documentation, testing, or feature building, please tag me or open an issue!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunsmarabasari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjunmarabasari@gmail.com) 
 
-# 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"> </a> 
