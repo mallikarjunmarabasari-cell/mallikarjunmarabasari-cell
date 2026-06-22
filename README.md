@@ -3,8 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack applications using the MERN stack.<br><br>👯 I’m looking to collaborate on Open Source MERN or Python projects.<br><br>🤝 I’m looking for help with advanced System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>💬 Ask me about MongoDB, Express, React, Node.js, or DSA.<br>I'm a student at BGMIT who loves turning caffeine into clean code!
-
+🔭 I’m currently working on Full-Stack applications using the PERN stack.<br><br>I’m looking to collaborate on Open Source PERN or Python projects.<br><br>🤝 I’m looking for help with advanced System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunsmarabasari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjunmarabasari@gmail.com) 
