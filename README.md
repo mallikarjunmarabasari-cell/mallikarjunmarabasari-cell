@@ -9,8 +9,8 @@
 I am actively seeking my first open-source contributions! 
 
 **What I bring to the table:**
-- **Full-Stack Web Dev:** MongoDB, Express, React, Node.js (MERN) & PostgreSQL (PERN)
-- **Languages:** C, Python, JS
+- **Full-Stack Web Dev:** PostgreSQL, Express, React, Node.js  (PERN)
+- **Languages:** Python, JS, C
 
 If you have a project with "good first issues" or need help documentation, testing, or feature building, please tag me or open an issue!
 
