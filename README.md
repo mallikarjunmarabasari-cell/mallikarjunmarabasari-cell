@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&amp;center=true&amp;color=0D7A1D&amp;size=40&amp;width=750&amp;height=80&amp;lines=Mallikarjun%20S%20Marabasari">
 </p>
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Full-Stack applications using the PERN stack.<br><br>I’m looking to collaborate on Open Source PERN or Python projects.<br><br>🤝 I’m looking for help with System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>
 
 ## 🚀 Open Source Aspirations
