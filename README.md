@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack applications using the PERN stack.<br><br>I’m looking to collaborate on Open Source PERN or Python projects.<br><br>🤝 I’m looking for help with advanced System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>
+🔭 I’m currently working on Full-Stack applications using the PERN stack.<br><br>I’m looking to collaborate on Open Source PERN or Python projects.<br><br>🤝 I’m looking for help with System Design and Scalability.<br><br>🌱 I’m currently learning Advanced Algorithmic Problem Solving in Python.<br><br>
 
 ## 🚀 Open Source Aspirations
 I am actively seeking my first open-source contributions! 
