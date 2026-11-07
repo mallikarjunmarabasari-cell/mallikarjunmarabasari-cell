@@ -15,7 +15,7 @@ I am actively seeking my first open-source contributions!
 If you have a project with "good first issues" or need help documentation, feature building, please tag me or open an issue!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunsmarabasari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjunsmarabasari@gmail.com) [![Online Resume]](https://shields.io)(https://mallikarjunsm.vercel.app/) [![Linktree](https://shields.io)](https://linktr.ee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunsmarabasari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjunsmarabasari@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-168F8B?style=flat&logo=react&logoColor=white)](https://mallikarjunsm.vercel.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
