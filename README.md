@@ -12,10 +12,11 @@ I am actively seeking my first open-source contributions!
 - **Full-Stack Web Dev:** PostgreSQL, Express, React, Node.js  (PERN)
 - **Languages:** Python, JS, C
 
-If you have a project with "good first issues" or need help documentation, testing, or feature building, please tag me or open an issue!
+If you have a project with "good first issues" or need help documentation, feature building, please tag me or open an issue!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunsmarabasari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjunmarabasari@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunsmarabasari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjunsmarabasari@gmail.com) [![Online Resume]](https://shields.io)(https://mallikarjunsm.vercel.app/) [![Linktree](https://shields.io)](https://linktr.ee)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
