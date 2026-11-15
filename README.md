@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&amp;center=true&amp;color=0D7A1D&amp;size=40&amp;width=750&amp;height=80&amp;lines=Mallikarjun%20S%20Marabasari">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&amp;center=true&amp;color=0D7A1D&amp;size=40&amp;width=750&amp;height=80&amp;lines=Mallikarjun%20S%20Marabasari;Driven%20By%20Curiosity">
 </p>
 
 # About Me:
@@ -36,21 +36,6 @@ If you have a project with "good first issues" or need help documentation, featu
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> </a> 
 </p><br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjunmarabasari-cell&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunmarabasari-cell&layout=compact&theme=default" alt="Top Languages" height="150" />
-</p>
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mallikarjunmarabasari-cell&theme=react-dark&hide_border=true"/>
-</p> <br>
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/mallikarjunmarabasari-cell/mallikarjunmarabasari-cell/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 <br>
 ## 🏆 GitHub Trophies
 
@@ -66,6 +51,5 @@ If you have a project with "good first issues" or need help documentation, featu
 <img src="https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&label=Profile+Views&color=39FF14&style=for-the-badge"/>
 </p>
 ---
-[![](https://komarev.com/ghpvc/?username=mallikarjunmarabasari-cell&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
